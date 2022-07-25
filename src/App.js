@@ -4,9 +4,9 @@ import './App.css';
 import Footer from './components/Footer';
 import StrangerThings from './components/StrangerThings';
 
-function App() {
-  const enviroment = process.env.MODE === 'development';
+const enviroment = process.env.NODE_ENV === 'development';
 
+function App() {
   return (
     <div className="App">
       <StrangerThings />
