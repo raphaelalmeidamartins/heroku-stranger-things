@@ -5,7 +5,7 @@
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
 
-Heroku deploy project developed by [Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/) at the end of Unit 25 ([Back-end Development Module](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end)) of Trybe's Web Development course. I was approved with 100% of the mandatory and optional requirements met.
+Heroku deployment project developed by [Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/) at the end of Unit 25 ([Back-end Development Module](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end)) of Trybe's Web Development course. I was approved with 100% of the mandatory and optional requirements met.
 
 We had to deploy an already existing Front-end application to the Heroku platform by configuring the environment variables. The application is not online anymore because I removed after getting approved in the project.
 <br />
